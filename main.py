@@ -11,7 +11,8 @@ empire_page = response.text
 soup = BeautifulSoup(empire_page, "html.parser")
 
 movies_list = soup.find_all(name="h3", class_="title")
-print(movies_list)
 
-for movie in movies_list:
-    print(movie.getText())
+movies_descending = [movie.getText().split(maxsplit=1) for movie in movies_list]
+top_100_movies = sorted([[int(number[:-1]), title] for number, title in movies_descending])
+
+print(top_100_movies)
