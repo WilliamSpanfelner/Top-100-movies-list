@@ -29,4 +29,7 @@ from the Internet Archive's Wayback machine. That way your work will match the s
 
 # Solution
 
-You can find the code from my walkthrough and solution as a downloadable .zip file in the course resources for this lesson. 
+You can find the code from my walkthrough and solution as a downloadable .zip file in the course resources for this lesson.
+
+[![Twitter: WSpanfelner](https://img.shields.io/twitter/follow/wspanfelner?style=plastic&logo=twitter&labelColor=success&logoColor=white)](https://twitter.com/WSpanfelner)
+[![Linkedin: wspanfelner](https://img.shields.io/badge/-William_Spanfelner-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wspanfelner)](https://www.linkedin.com/in/wspanfelner)
