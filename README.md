@@ -1,3 +1,5 @@
+![Screenshot](day-45-Top-100-movies-list.png)
+
 ## 100 Movies that You Must Watch
 
 # Objective
